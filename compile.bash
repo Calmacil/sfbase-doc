@@ -5,3 +5,4 @@ function compile {
 }
 
 compile installation_guide Guide_installation
+compile user_guide Guide_utilisateur
